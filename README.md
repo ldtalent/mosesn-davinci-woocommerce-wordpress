@@ -5,19 +5,21 @@
 
 1.Wamp/ Xampp
 
-2.worpress downlad file
+2.worpress download file(https://wordpress.org/download/)
 
 3. Internet connectivity
 
 ## How to setup and run the application 
 
--Clone the repo and cpoy it your local disk C.
+-Clone the repo and copy it to your local disk C.
 
 - for wamp paste to C:\wamp64\www\
 
-- for xamp paste to C:\Xampp\htdocs\
+- for xampp paste to C:\Xampp\htdocs\
 
--create database named "fashions"
+-create database name it "fashions"
 
--tpye 27.1.0.1 to run the website.
+- start all services in yor local server(Xampp/Wamp)
+
+-tpye 27.1.0.1 on your browser run the website.
 
