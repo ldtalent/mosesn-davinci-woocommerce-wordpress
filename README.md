@@ -5,7 +5,7 @@
 
 1.Wamp/ Xampp
 
-2.worpress download file(https://wordpress.org/download/)
+2.[worpress download file](https://wordpress.org/download/)
 
 3. Internet connectivity
 
