@@ -11,15 +11,15 @@
 
 ## How to setup and run the application 
 
--Clone the repo and copy it to your local disk C.
+ -Clone the repo and copy it to your local disk C.
 
-- for wamp paste to C:\wamp64\www\
+ - for wamp paste to C:\wamp64\www\
 
-- for xampp paste to C:\Xampp\htdocs\
+ - for xampp paste to C:\Xampp\htdocs\
 
--create database name it "fashions"
+ - start all services in yor local server(Xampp/Wamp)
 
-- start all services in yor local server(Xampp/Wamp)
+ -Import the database "fashions.sql" into your phpmyadmin.
 
--tpye 27.1.0.1 on your browser run the website.
+ -tpye 27.1.0.1 on your browser run the website.
 
